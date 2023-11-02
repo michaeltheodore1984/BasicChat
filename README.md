@@ -33,6 +33,11 @@ Enter the working directory
 ```
 cd BasicChat
 ```
+Install dependencies
+
+```
+npm install
+```
 Run the server
 
 ```
